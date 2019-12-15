@@ -6,10 +6,10 @@ import sql
 import commands
 
 
-name = "hwstaff_pub_SREIaaSCompute"
-user = "tianlinqiang"
-password = "tlq123@@321"
-project_id = "438fe291fdc54c08832758e7791e7791"
+name = "xxxxxxxxxxxxxx"
+user = "xxxxxxxxxxxxxx"
+password = "xxxxxxxxxxx"
+project_id = "xxxxxxxxxxxxxx"
 
 
 url_iam = "https://iam.ap-southeast-1.myhuaweicloud.com/v3/auth/tokens"
