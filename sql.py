@@ -4,7 +4,7 @@ import MySQLdb
 
 
 def open_database():
-    db = MySQLdb.connect("localhost","root","tlq123@321","huawei_vm_datas",charset='utf8')
+    db = MySQLdb.connect("localhost","root","xxxxxxxxxx","huawei_vm_datas",charset='utf8')
     cursor = db.cursor()
     def write_job_name(sql):
         #sql = "INSERT INTO vm_table(vm_creat_job,vm_name)values ('%s','%s')" %(vm_creat_job,vm_name)
